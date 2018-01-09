@@ -1,6 +1,6 @@
 -   id: pylint
     name: pylint
-    entry: pylint
+    entry: pipenv run pylint
     language: python
     files: \.py$
     args: []
